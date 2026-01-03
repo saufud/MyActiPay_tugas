@@ -55,6 +55,7 @@ Oleh karena itu, aplikasi MyActiPay dibuat untuk membantu proses pencatatan dan 
 ## 📁 Struktur Project
 
 Project ini menggunakan struktur standar **Java Web Application (NetBeans – Ant)** sebagai berikut:
+```
 
 MyActiPay/
 ├── build/
@@ -99,6 +100,7 @@ MyActiPay/
 │
 ├── build.xml 
 └── README.md
+```
 
 ---
 
